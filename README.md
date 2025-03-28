@@ -1,5 +1,5 @@
 # FitBit-AHA-Analysis
-case study using R:
+This is a case study using R that I also incorporated into Kaggle:
 BellaBeat is a high-tech manufacturer of health-focused products for women. BellaBeat intends to become a larger player in the  global smart device market. 
 Urška Sršen: BellaBeat’s cofounder and Chief Creative Officer has asked me to analyze smart device usage data in order to gain insight into how people are already using their smart devices. She would like a high-level recommendations for how these trends can inform BellaBeat marketing strategy. 
 
