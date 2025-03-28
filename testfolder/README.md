@@ -1,2 +1,0 @@
-# FitBit-AHA-Analysis
-Fitbit
